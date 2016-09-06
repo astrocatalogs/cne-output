@@ -1,0 +1,531 @@
+{
+	"V693 CrA":{
+		"schema":"https://github.com/astrocatalogs/astrocats/blob/aaf96e3b3fbcf703610b756295a7120ec1ecc3f7/OSC-JSON-format.md",
+		"name":"V693 CrA",
+		"sources":[
+			{
+				"bibcode":"1981IBVS.1981....1C",
+				"reference":"Caldwell (1981)",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2010AJ....140...34S",
+				"reference":"Strope et. al (2010)",
+				"alias":"2"
+			},
+			{
+				"name":"SIMBAD astronomical database",
+				"bibcode":"1997PASP..109..345D",
+				"secondary":true,
+				"url":"http://simbad.u-strasbg.fr/",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"V693 CrA",
+				"source":"1,2"
+			},
+			{
+				"value":"AAVSO 1835-37",
+				"source":"3"
+			},
+			{
+				"value":"NOVA CrA 1981",
+				"source":"3"
+			},
+			{
+				"value":"V* V693 CrA",
+				"source":"3"
+			}
+		],
+		"dec":[
+			{
+				"value":"-37:31:14",
+				"u_value":"degrees",
+				"source":"3"
+			}
+		],
+		"ra":[
+			{
+				"value":"18:41:57.8",
+				"u_value":"hours",
+				"source":"3"
+			}
+		],
+		"photometry":[
+			{
+				"time":"2444703.63",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"8.87",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444704.56",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"8.98",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444706.68",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"9.25",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444712.58",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"9.88",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444713.62",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"9.93",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444715.64",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"10.06",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444720.55",
+				"band":"V",
+				"e_magnitude":"0.01",
+				"magnitude":"10.6",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444703.63",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"8.54",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444704.56",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"8.6",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444706.68",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"8.87",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444712.58",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"9.38",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444713.62",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"magnitude":"9.41",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444715.64",
+				"band":"B",
+				"e_magnitude":"0.01",
+				"magnitude":"9.47",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444720.55",
+				"band":"B",
+				"e_magnitude":"0.05",
+				"magnitude":"9.9",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444703.63",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"7.63",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444704.56",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"7.68",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444706.68",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"7.91",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444712.58",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"8.4",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444713.62",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"8.47",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444715.64",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"8.52",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444720.55",
+				"band":"U",
+				"e_magnitude":"0.01",
+				"magnitude":"8.85",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444703.63",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"magnitude":"7.82",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444704.56",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"magnitude":"7.96",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444706.68",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"magnitude":"8.22",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444712.58",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"magnitude":"9.01",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444715.64",
+				"band":"R",
+				"e_magnitude":"0.01",
+				"magnitude":"9.28",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444703.63",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"7.8",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444704.56",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"8.01",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444706.68",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"8.43",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444712.58",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"9.42",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444715.64",
+				"band":"I",
+				"e_magnitude":"0.01",
+				"magnitude":"9.67",
+				"observer":"John A. R. Caldwell",
+				"telescope":"South African Astronomical Observatory 0.5 m and 1.0 m",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2444697.500",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"7.00",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444701.500",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"7.40",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444702.500",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"7.40",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444705.500",
+				"band":"V",
+				"e_magnitude":"0.11",
+				"magnitude":"8.95",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444707.000",
+				"band":"V",
+				"e_magnitude":"0.24",
+				"magnitude":"8.57",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444709.000",
+				"band":"V",
+				"e_magnitude":"0.17",
+				"magnitude":"9.18",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444711.000",
+				"band":"V",
+				"e_magnitude":"0.09",
+				"magnitude":"9.43",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444713.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"8.90",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444715.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"9.90",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444722.000",
+				"band":"V",
+				"e_magnitude":"0.11",
+				"magnitude":"10.55",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444726.000",
+				"band":"V",
+				"e_magnitude":"0.11",
+				"magnitude":"10.55",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444730.000",
+				"band":"V",
+				"e_magnitude":"0.19",
+				"magnitude":"11.07",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444734.000",
+				"band":"V",
+				"e_magnitude":"0.14",
+				"magnitude":"10.50",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444738.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"11.00",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444754.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"12.00",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444762.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"12.00",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444766.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"11.50",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			},
+			{
+				"time":"2444822.000",
+				"band":"V",
+				"e_magnitude":"0.15",
+				"magnitude":"12.50",
+				"observer":"AAVSO",
+				"u_time":"MJD",
+				"source":"2"
+			}
+		]
+	}
+}

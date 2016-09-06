@@ -1,0 +1,3383 @@
+{
+	"V959 Mon":{
+		"schema":"https://github.com/astrocatalogs/astrocats/blob/aaf96e3b3fbcf703610b756295a7120ec1ecc3f7/OSC-JSON-format.md",
+		"name":"V959 Mon",
+		"sources":[
+			{
+				"bibcode":"2013MNRAS.435..771M",
+				"reference":"Munari et. al (2013)",
+				"alias":"1"
+			},
+			{
+				"name":"SIMBAD astronomical database",
+				"bibcode":"2012CBET.3202....1S",
+				"secondary":true,
+				"url":"http://simbad.u-strasbg.fr/",
+				"alias":"2"
+			}
+		],
+		"alias":[
+			{
+				"value":"V959 Mon",
+				"source":"1"
+			},
+			{
+				"value":"NOVA Mon 2012",
+				"source":"2"
+			},
+			{
+				"value":"PNV J06393874+0553520",
+				"source":"2"
+			},
+			{
+				"value":"PSN J06393874+0553520",
+				"source":"2"
+			},
+			{
+				"value":"V* V959 Mon",
+				"source":"2"
+			},
+			{
+				"value":"Fermi J0639+0548",
+				"source":"2"
+			}
+		],
+		"dec":[
+			{
+				"value":"+05:53:52.0",
+				"u_value":"degrees",
+				"source":"2"
+			}
+		],
+		"ra":[
+			{
+				"value":"06:39:38.74",
+				"u_value":"hours",
+				"source":"2"
+			}
+		],
+		"photometry":[
+			{
+				"time":"2456155.6407",
+				"band":"IC",
+				"magnitude":"8.217",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456155.6407",
+				"band":"V",
+				"magnitude":"9.993",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456156.6427",
+				"band":"RC",
+				"magnitude":"8.300",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456156.6427",
+				"band":"IC",
+				"magnitude":"8.281",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456156.6427",
+				"band":"V",
+				"magnitude":"10.009",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456156.6427",
+				"band":"B",
+				"magnitude":"10.339",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456158.6253",
+				"band":"RC",
+				"magnitude":"8.284",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456158.6253",
+				"band":"IC",
+				"magnitude":"8.291",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456158.6253",
+				"band":"V",
+				"magnitude":"9.970",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456158.6253",
+				"band":"B",
+				"magnitude":"10.206",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456159.6285",
+				"band":"RC",
+				"magnitude":"8.345",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456159.6285",
+				"band":"IC",
+				"magnitude":"8.369",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456159.6285",
+				"band":"V",
+				"magnitude":"10.022",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456159.6285",
+				"band":"B",
+				"magnitude":"10.291",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6235",
+				"band":"RC",
+				"magnitude":"8.439",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6235",
+				"band":"IC",
+				"magnitude":"8.430",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6235",
+				"band":"V",
+				"magnitude":"10.088",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6235",
+				"band":"B",
+				"magnitude":"10.309",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6481",
+				"band":"RC",
+				"magnitude":"8.462",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6481",
+				"band":"IC",
+				"magnitude":"8.382",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6481",
+				"band":"V",
+				"magnitude":"10.073",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456160.6481",
+				"band":"B",
+				"magnitude":"10.348",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456161.6393",
+				"band":"RC",
+				"magnitude":"8.445",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456161.6393",
+				"band":"IC",
+				"magnitude":"8.376",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456161.6393",
+				"band":"V",
+				"magnitude":"10.094",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456161.6393",
+				"band":"B",
+				"magnitude":"10.176",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456163.6412",
+				"band":"IC",
+				"magnitude":"8.504",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456163.6412",
+				"band":"V",
+				"magnitude":"10.097",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456163.6412",
+				"band":"B",
+				"magnitude":"10.274",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6328",
+				"band":"RC",
+				"magnitude":"8.525",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6328",
+				"band":"IC",
+				"magnitude":"8.534",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6328",
+				"band":"V",
+				"magnitude":"10.152",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6328",
+				"band":"B",
+				"magnitude":"10.361",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6389",
+				"band":"RC",
+				"magnitude":"8.516",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6389",
+				"band":"IC",
+				"magnitude":"8.518",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6389",
+				"band":"V",
+				"magnitude":"10.095",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456164.6389",
+				"band":"B",
+				"magnitude":"10.367",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6241",
+				"band":"RC",
+				"magnitude":"8.545",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6241",
+				"band":"IC",
+				"magnitude":"8.609",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6241",
+				"band":"V",
+				"magnitude":"10.136",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6241",
+				"band":"B",
+				"magnitude":"10.381",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6290",
+				"band":"RC",
+				"magnitude":"8.531",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6290",
+				"band":"IC",
+				"magnitude":"8.570",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6290",
+				"band":"V",
+				"magnitude":"10.109",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456166.6290",
+				"band":"B",
+				"magnitude":"10.394",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6214",
+				"band":"RC",
+				"magnitude":"8.572",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6214",
+				"band":"IC",
+				"magnitude":"8.608",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6214",
+				"band":"V",
+				"magnitude":"10.111",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6214",
+				"band":"B",
+				"magnitude":"10.408",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6281",
+				"band":"RC",
+				"magnitude":"8.497",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6281",
+				"band":"IC",
+				"magnitude":"8.522",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6281",
+				"band":"V",
+				"magnitude":"10.062",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456167.6281",
+				"band":"B",
+				"magnitude":"10.362",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456168.6217",
+				"band":"RC",
+				"magnitude":"8.627",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456168.6217",
+				"band":"IC",
+				"magnitude":"8.670",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456168.6217",
+				"band":"V",
+				"magnitude":"10.180",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456168.6217",
+				"band":"B",
+				"magnitude":"10.417",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456175.6122",
+				"band":"RC",
+				"magnitude":"8.762",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456175.6122",
+				"band":"IC",
+				"magnitude":"8.866",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456175.6122",
+				"band":"V",
+				"magnitude":"10.278",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456175.6122",
+				"band":"B",
+				"magnitude":"10.432",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456176.6362",
+				"band":"RC",
+				"magnitude":"8.808",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456176.6362",
+				"band":"IC",
+				"magnitude":"8.926",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456176.6362",
+				"band":"V",
+				"magnitude":"10.327",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456176.6362",
+				"band":"B",
+				"magnitude":"10.495",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456177.6635",
+				"band":"RC",
+				"magnitude":"8.857",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456177.6635",
+				"band":"IC",
+				"magnitude":"8.971",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456177.6635",
+				"band":"V",
+				"magnitude":"10.319",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456177.6635",
+				"band":"B",
+				"magnitude":"10.457",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456178.6140",
+				"band":"RC",
+				"magnitude":"8.846",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456178.6140",
+				"band":"IC",
+				"magnitude":"8.953",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456178.6140",
+				"band":"V",
+				"magnitude":"10.296",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456178.6140",
+				"band":"B",
+				"magnitude":"10.444",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6036",
+				"band":"RC",
+				"magnitude":"8.848",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6036",
+				"band":"IC",
+				"magnitude":"8.974",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6036",
+				"band":"V",
+				"magnitude":"10.322",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6036",
+				"band":"B",
+				"magnitude":"10.475",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6574",
+				"band":"RC",
+				"magnitude":"8.919",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6574",
+				"band":"IC",
+				"magnitude":"9.028",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6574",
+				"band":"V",
+				"magnitude":"10.333",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456179.6574",
+				"band":"B",
+				"magnitude":"10.489",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456181.6172",
+				"band":"RC",
+				"magnitude":"8.923",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456181.6172",
+				"band":"IC",
+				"magnitude":"9.103",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456181.6172",
+				"band":"V",
+				"magnitude":"10.398",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456181.6172",
+				"band":"B",
+				"magnitude":"10.493",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456185.6291",
+				"band":"RC",
+				"magnitude":"9.019",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456185.6291",
+				"band":"IC",
+				"magnitude":"9.172",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456185.6291",
+				"band":"V",
+				"magnitude":"10.453",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456185.6291",
+				"band":"B",
+				"magnitude":"10.540",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6073",
+				"band":"RC",
+				"magnitude":"9.044",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6073",
+				"band":"IC",
+				"magnitude":"9.201",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6073",
+				"band":"V",
+				"magnitude":"10.451",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6073",
+				"band":"B",
+				"magnitude":"10.544",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6404",
+				"band":"RC",
+				"magnitude":"8.999",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6404",
+				"band":"IC",
+				"magnitude":"9.181",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6404",
+				"band":"V",
+				"magnitude":"10.401",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456188.6404",
+				"band":"B",
+				"magnitude":"10.525",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456190.6445",
+				"band":"RC",
+				"magnitude":"9.082",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456190.6445",
+				"band":"IC",
+				"magnitude":"9.241",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456190.6445",
+				"band":"V",
+				"magnitude":"10.483",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456190.6445",
+				"band":"B",
+				"magnitude":"10.633",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.5881",
+				"band":"RC",
+				"magnitude":"9.162",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.5881",
+				"band":"IC",
+				"magnitude":"9.293",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.5881",
+				"band":"V",
+				"magnitude":"10.505",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.5881",
+				"band":"B",
+				"magnitude":"10.594",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.6319",
+				"band":"RC",
+				"magnitude":"9.140",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.6319",
+				"band":"IC",
+				"magnitude":"9.349",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.6319",
+				"band":"V",
+				"magnitude":"10.530",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456195.6319",
+				"band":"B",
+				"magnitude":"10.595",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456198.5828",
+				"band":"RC",
+				"magnitude":"9.188",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456198.5828",
+				"band":"IC",
+				"magnitude":"9.385",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456198.5828",
+				"band":"V",
+				"magnitude":"10.570",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456198.5828",
+				"band":"B",
+				"magnitude":"10.656",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456203.6087",
+				"band":"RC",
+				"magnitude":"9.300",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456203.6087",
+				"band":"IC",
+				"magnitude":"9.532",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456203.6087",
+				"band":"V",
+				"magnitude":"10.636",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456203.6087",
+				"band":"B",
+				"magnitude":"10.682",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5660",
+				"band":"RC",
+				"magnitude":"9.417",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5660",
+				"band":"IC",
+				"magnitude":"9.609",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5660",
+				"band":"V",
+				"magnitude":"10.747",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5660",
+				"band":"B",
+				"magnitude":"10.735",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5776",
+				"band":"RC",
+				"magnitude":"9.402",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5776",
+				"band":"IC",
+				"magnitude":"9.613",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5776",
+				"band":"V",
+				"magnitude":"10.712",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456208.5776",
+				"band":"B",
+				"magnitude":"10.740",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456217.6455",
+				"band":"RC",
+				"magnitude":"9.634",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456217.6455",
+				"band":"IC",
+				"magnitude":"9.848",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456217.6455",
+				"band":"V",
+				"magnitude":"10.887",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456217.6455",
+				"band":"B",
+				"magnitude":"10.919",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456219.6460",
+				"band":"RC",
+				"magnitude":"9.693",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456219.6460",
+				"band":"IC",
+				"magnitude":"9.916",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456219.6460",
+				"band":"V",
+				"magnitude":"10.978",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456219.6460",
+				"band":"B",
+				"magnitude":"10.932",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.5624",
+				"band":"RC",
+				"magnitude":"9.710",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.5624",
+				"band":"IC",
+				"magnitude":"9.886",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.5624",
+				"band":"V",
+				"magnitude":"10.959",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.5624",
+				"band":"B",
+				"magnitude":"10.943",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.6387",
+				"band":"RC",
+				"magnitude":"9.673",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.6387",
+				"band":"IC",
+				"magnitude":"9.866",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.6387",
+				"band":"V",
+				"magnitude":"10.877",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456221.6387",
+				"band":"B",
+				"magnitude":"10.913",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456224.6225",
+				"band":"RC",
+				"magnitude":"9.707",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456224.6225",
+				"band":"IC",
+				"magnitude":"9.871",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456224.6225",
+				"band":"V",
+				"magnitude":"10.911",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456224.6225",
+				"band":"B",
+				"magnitude":"10.908",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456230.4697",
+				"band":"RC",
+				"magnitude":"9.875",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456230.4697",
+				"band":"IC",
+				"magnitude":"10.046",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456230.4697",
+				"band":"V",
+				"magnitude":"11.002",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456230.4697",
+				"band":"B",
+				"magnitude":"11.041",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456237.5008",
+				"band":"RC",
+				"magnitude":"10.035",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456237.5008",
+				"band":"IC",
+				"magnitude":"10.216",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456237.5008",
+				"band":"V",
+				"magnitude":"11.106",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456237.5008",
+				"band":"B",
+				"magnitude":"11.095",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456239.7161",
+				"band":"RC",
+				"magnitude":"10.062",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456239.7161",
+				"band":"IC",
+				"magnitude":"10.257",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456239.7161",
+				"band":"V",
+				"magnitude":"11.119",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456239.7161",
+				"band":"B",
+				"magnitude":"11.097",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456247.6444",
+				"band":"RC",
+				"magnitude":"10.186",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456247.6444",
+				"band":"IC",
+				"magnitude":"10.335",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456247.6444",
+				"band":"V",
+				"magnitude":"11.152",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456247.6444",
+				"band":"B",
+				"magnitude":"11.149",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456248.4622",
+				"band":"RC",
+				"magnitude":"10.186",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456248.4622",
+				"band":"IC",
+				"magnitude":"10.385",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456248.4622",
+				"band":"V",
+				"magnitude":"11.156",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456248.4622",
+				"band":"B",
+				"magnitude":"11.170",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456251.7104",
+				"band":"RC",
+				"magnitude":"10.282",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456251.7104",
+				"band":"IC",
+				"magnitude":"10.445",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456251.7104",
+				"band":"V",
+				"magnitude":"11.228",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456251.7104",
+				"band":"B",
+				"magnitude":"11.176",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456253.4268",
+				"band":"RC",
+				"magnitude":"10.307",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456253.4268",
+				"band":"IC",
+				"magnitude":"10.469",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456253.4268",
+				"band":"V",
+				"magnitude":"11.240",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456253.4268",
+				"band":"B",
+				"magnitude":"11.208",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456256.7257",
+				"band":"RC",
+				"magnitude":"10.351",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456256.7257",
+				"band":"IC",
+				"magnitude":"10.534",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456256.7257",
+				"band":"V",
+				"magnitude":"11.286",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456256.7257",
+				"band":"B",
+				"magnitude":"11.199",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.4491",
+				"band":"RC",
+				"magnitude":"10.504",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.4491",
+				"band":"IC",
+				"magnitude":"10.621",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.4491",
+				"band":"V",
+				"magnitude":"11.305",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.4491",
+				"band":"B",
+				"magnitude":"11.317",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.6907",
+				"band":"RC",
+				"magnitude":"10.495",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.6907",
+				"band":"IC",
+				"magnitude":"10.608",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.6907",
+				"band":"V",
+				"magnitude":"11.300",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456264.6907",
+				"band":"B",
+				"magnitude":"11.307",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456265.3794",
+				"band":"RC",
+				"magnitude":"10.511",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456265.3794",
+				"band":"IC",
+				"magnitude":"10.672",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456265.3794",
+				"band":"V",
+				"magnitude":"11.324",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456265.3794",
+				"band":"B",
+				"magnitude":"11.303",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456267.5269",
+				"band":"RC",
+				"magnitude":"10.602",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456267.5269",
+				"band":"IC",
+				"magnitude":"10.758",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456267.5269",
+				"band":"V",
+				"magnitude":"11.383",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456267.5269",
+				"band":"B",
+				"magnitude":"11.381",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456268.3786",
+				"band":"RC",
+				"magnitude":"10.583",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456268.3786",
+				"band":"IC",
+				"magnitude":"10.718",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456268.3786",
+				"band":"V",
+				"magnitude":"11.374",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456268.3786",
+				"band":"B",
+				"magnitude":"11.350",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456270.4440",
+				"band":"RC",
+				"magnitude":"10.626",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456270.4440",
+				"band":"IC",
+				"magnitude":"10.734",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456270.4440",
+				"band":"V",
+				"magnitude":"11.354",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456270.4440",
+				"band":"B",
+				"magnitude":"11.385",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456273.7129",
+				"band":"RC",
+				"magnitude":"10.660",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456273.7129",
+				"band":"IC",
+				"magnitude":"10.812",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456273.7129",
+				"band":"V",
+				"magnitude":"11.416",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456273.7129",
+				"band":"B",
+				"magnitude":"11.387",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.4883",
+				"band":"RC",
+				"magnitude":"10.687",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.4883",
+				"band":"IC",
+				"magnitude":"10.798",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.4883",
+				"band":"V",
+				"magnitude":"11.388",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.4883",
+				"band":"B",
+				"magnitude":"11.435",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.6304",
+				"band":"RC",
+				"magnitude":"10.707",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.6304",
+				"band":"IC",
+				"magnitude":"10.855",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.6304",
+				"band":"V",
+				"magnitude":"11.427",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456274.6304",
+				"band":"B",
+				"magnitude":"11.447",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456278.4119",
+				"band":"RC",
+				"magnitude":"10.786",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456278.4119",
+				"band":"IC",
+				"magnitude":"10.906",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456278.4119",
+				"band":"V",
+				"magnitude":"11.438",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456278.4119",
+				"band":"B",
+				"magnitude":"11.461",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456280.4476",
+				"band":"RC",
+				"magnitude":"10.832",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456280.4476",
+				"band":"IC",
+				"magnitude":"10.917",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456280.4476",
+				"band":"V",
+				"magnitude":"11.454",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456280.4476",
+				"band":"B",
+				"magnitude":"11.476",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.4742",
+				"band":"RC",
+				"magnitude":"10.891",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.4742",
+				"band":"IC",
+				"magnitude":"10.994",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.4742",
+				"band":"V",
+				"magnitude":"11.488",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.4742",
+				"band":"B",
+				"magnitude":"11.500",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.6380",
+				"band":"RC",
+				"magnitude":"10.826",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.6380",
+				"band":"IC",
+				"magnitude":"10.936",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.6380",
+				"band":"V",
+				"magnitude":"11.442",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456281.6380",
+				"band":"B",
+				"magnitude":"11.450",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456283.5159",
+				"band":"RC",
+				"magnitude":"10.928",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456283.5159",
+				"band":"IC",
+				"magnitude":"11.023",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456283.5159",
+				"band":"V",
+				"magnitude":"11.505",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456283.5159",
+				"band":"B",
+				"magnitude":"11.496",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.3965",
+				"band":"RC",
+				"magnitude":"10.976",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.3965",
+				"band":"IC",
+				"magnitude":"11.042",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.3965",
+				"band":"V",
+				"magnitude":"11.505",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.3965",
+				"band":"B",
+				"magnitude":"11.523",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.4285",
+				"band":"RC",
+				"magnitude":"10.975",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.4285",
+				"band":"IC",
+				"magnitude":"11.059",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.4285",
+				"band":"V",
+				"magnitude":"11.495",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456288.4285",
+				"band":"B",
+				"magnitude":"11.535",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456291.4593",
+				"band":"RC",
+				"magnitude":"11.062",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456291.4593",
+				"band":"IC",
+				"magnitude":"11.094",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456291.4593",
+				"band":"V",
+				"magnitude":"11.561",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456291.4593",
+				"band":"B",
+				"magnitude":"11.582",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456293.3691",
+				"band":"RC",
+				"magnitude":"11.063",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456293.3691",
+				"band":"IC",
+				"magnitude":"11.127",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456293.3691",
+				"band":"V",
+				"magnitude":"11.561",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456293.3691",
+				"band":"B",
+				"magnitude":"11.577",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456296.5419",
+				"band":"RC",
+				"magnitude":"11.154",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456296.5419",
+				"band":"IC",
+				"magnitude":"11.240",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456296.5419",
+				"band":"V",
+				"magnitude":"11.627",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456296.5419",
+				"band":"B",
+				"magnitude":"11.648",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456298.4547",
+				"band":"RC",
+				"magnitude":"11.137",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456298.4547",
+				"band":"IC",
+				"magnitude":"11.167",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456298.4547",
+				"band":"V",
+				"magnitude":"11.581",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456298.4547",
+				"band":"B",
+				"magnitude":"11.646",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456299.4825",
+				"band":"RC",
+				"magnitude":"11.212",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456299.4825",
+				"band":"IC",
+				"magnitude":"11.277",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456299.4825",
+				"band":"V",
+				"magnitude":"11.660",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456299.4825",
+				"band":"B",
+				"magnitude":"11.696",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456300.4481",
+				"band":"RC",
+				"magnitude":"11.195",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456300.4481",
+				"band":"IC",
+				"magnitude":"11.233",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456300.4481",
+				"band":"V",
+				"magnitude":"11.619",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456300.4481",
+				"band":"B",
+				"magnitude":"11.675",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456304.5081",
+				"band":"RC",
+				"magnitude":"11.307",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456304.5081",
+				"band":"IC",
+				"magnitude":"11.363",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456304.5081",
+				"band":"V",
+				"magnitude":"11.708",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456304.5081",
+				"band":"B",
+				"magnitude":"11.771",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456311.3110",
+				"band":"IC",
+				"magnitude":"11.438",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456311.3110",
+				"band":"V",
+				"magnitude":"11.761",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.4967",
+				"band":"RC",
+				"magnitude":"11.474",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.4967",
+				"band":"IC",
+				"magnitude":"11.515",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.4967",
+				"band":"V",
+				"magnitude":"11.817",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.4967",
+				"band":"B",
+				"magnitude":"11.925",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.5033",
+				"band":"IC",
+				"magnitude":"11.484",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.5033",
+				"band":"V",
+				"magnitude":"11.808",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.5355",
+				"band":"IC",
+				"magnitude":"11.456",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456315.5355",
+				"band":"V",
+				"magnitude":"11.793",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456323.3180",
+				"band":"IC",
+				"magnitude":"11.583",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456323.3180",
+				"band":"V",
+				"magnitude":"11.868",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456323.3270",
+				"band":"V",
+				"magnitude":"11.873",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456323.3270",
+				"band":"B",
+				"magnitude":"12.039",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456324.2960",
+				"band":"IC",
+				"magnitude":"11.652",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456324.2960",
+				"band":"V",
+				"magnitude":"11.906",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456324.3910",
+				"band":"IC",
+				"magnitude":"11.611",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456324.3910",
+				"band":"V",
+				"magnitude":"11.858",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456324.4000",
+				"band":"V",
+				"magnitude":"11.890",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456324.4000",
+				"band":"B",
+				"magnitude":"12.058",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456327.3020",
+				"band":"V",
+				"magnitude":"11.946",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456327.3020",
+				"band":"B",
+				"magnitude":"12.134",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456327.3180",
+				"band":"IC",
+				"magnitude":"11.734",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456327.3180",
+				"band":"V",
+				"magnitude":"11.945",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456327.3730",
+				"band":"IC",
+				"magnitude":"11.692",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456327.3730",
+				"band":"V",
+				"magnitude":"11.890",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456328.3820",
+				"band":"IC",
+				"magnitude":"11.762",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456328.3820",
+				"band":"V",
+				"magnitude":"11.938",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456328.3890",
+				"band":"V",
+				"magnitude":"11.955",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456328.3890",
+				"band":"B",
+				"magnitude":"12.154",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456330.3968",
+				"band":"RC",
+				"magnitude":"11.732",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456330.3968",
+				"band":"IC",
+				"magnitude":"11.767",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456330.3968",
+				"band":"V",
+				"magnitude":"11.958",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456330.3968",
+				"band":"B",
+				"magnitude":"12.226",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456331.3520",
+				"band":"V",
+				"magnitude":"11.992",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456331.3520",
+				"band":"B",
+				"magnitude":"12.245",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456331.3620",
+				"band":"IC",
+				"magnitude":"11.809",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456331.3620",
+				"band":"V",
+				"magnitude":"11.997",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456332.3470",
+				"band":"V",
+				"magnitude":"12.039",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456332.3470",
+				"band":"B",
+				"magnitude":"12.296",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456332.4840",
+				"band":"IC",
+				"magnitude":"11.838",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456332.4840",
+				"band":"V",
+				"magnitude":"12.011",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456333.4100",
+				"band":"V",
+				"magnitude":"12.073",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456333.4100",
+				"band":"B",
+				"magnitude":"12.337",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456333.4177",
+				"band":"RC",
+				"magnitude":"11.896",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456333.4177",
+				"band":"IC",
+				"magnitude":"11.918",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456333.4177",
+				"band":"V",
+				"magnitude":"12.071",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456333.4177",
+				"band":"B",
+				"magnitude":"12.371",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456334.2927",
+				"band":"RC",
+				"magnitude":"11.918",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456334.2927",
+				"band":"IC",
+				"magnitude":"11.968",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456334.2927",
+				"band":"V",
+				"magnitude":"12.093",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456334.2927",
+				"band":"B",
+				"magnitude":"12.401",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456334.3480",
+				"band":"IC",
+				"magnitude":"11.972",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456334.3480",
+				"band":"V",
+				"magnitude":"12.098",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.2539",
+				"band":"RC",
+				"magnitude":"11.987",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.2539",
+				"band":"IC",
+				"magnitude":"12.029",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.2539",
+				"band":"V",
+				"magnitude":"12.133",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.2539",
+				"band":"B",
+				"magnitude":"12.474",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.4033",
+				"band":"RC",
+				"magnitude":"11.966",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.4033",
+				"band":"IC",
+				"magnitude":"11.982",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.4033",
+				"band":"V",
+				"magnitude":"12.138",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456338.4033",
+				"band":"B",
+				"magnitude":"12.459",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2816",
+				"band":"RC",
+				"magnitude":"12.070",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2816",
+				"band":"IC",
+				"magnitude":"12.079",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2816",
+				"band":"V",
+				"magnitude":"12.182",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2816",
+				"band":"B",
+				"magnitude":"12.538",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2981",
+				"band":"RC",
+				"magnitude":"12.066",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2981",
+				"band":"IC",
+				"magnitude":"12.097",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2981",
+				"band":"V",
+				"magnitude":"12.165",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456342.2981",
+				"band":"B",
+				"magnitude":"12.532",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456343.3903",
+				"band":"RC",
+				"magnitude":"12.064",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456343.3903",
+				"band":"IC",
+				"magnitude":"12.066",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456343.3903",
+				"band":"V",
+				"magnitude":"12.179",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456343.3903",
+				"band":"B",
+				"magnitude":"12.562",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456349.3244",
+				"band":"RC",
+				"magnitude":"12.158",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456349.3244",
+				"band":"IC",
+				"magnitude":"12.173",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456349.3244",
+				"band":"V",
+				"magnitude":"12.249",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456349.3244",
+				"band":"B",
+				"magnitude":"12.659",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456352.4366",
+				"band":"RC",
+				"magnitude":"12.241",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456352.4366",
+				"band":"IC",
+				"magnitude":"12.266",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456352.4366",
+				"band":"V",
+				"magnitude":"12.314",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456352.4366",
+				"band":"B",
+				"magnitude":"12.714",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456353.3420",
+				"band":"V",
+				"magnitude":"12.338",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456353.3420",
+				"band":"B",
+				"magnitude":"12.729",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456354.2978",
+				"band":"V",
+				"magnitude":"12.345",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456354.2978",
+				"band":"B",
+				"magnitude":"12.756",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456356.3969",
+				"band":"RC",
+				"magnitude":"12.279",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456356.3969",
+				"band":"IC",
+				"magnitude":"12.292",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456356.3969",
+				"band":"V",
+				"magnitude":"12.326",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456356.3969",
+				"band":"B",
+				"magnitude":"12.802",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3330",
+				"band":"RC",
+				"magnitude":"12.467",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3330",
+				"band":"IC",
+				"magnitude":"12.496",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3330",
+				"band":"V",
+				"magnitude":"12.452",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3330",
+				"band":"B",
+				"magnitude":"13.011",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3575",
+				"band":"V",
+				"magnitude":"12.466",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3575",
+				"band":"B",
+				"magnitude":"12.994",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3745",
+				"band":"RC",
+				"magnitude":"12.471",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3745",
+				"band":"IC",
+				"magnitude":"12.491",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3745",
+				"band":"V",
+				"magnitude":"12.435",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			},
+			{
+				"time":"2456367.3745",
+				"band":"B",
+				"magnitude":"12.989",
+				"observer":"Munari",
+				"telescope":"INAF Observatories",
+				"u_time":"MJD",
+				"source":"1"
+			}
+		]
+	}
+}
